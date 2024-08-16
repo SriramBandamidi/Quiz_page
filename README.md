@@ -99,6 +99,7 @@
 }
 
 .quiz-questions-bottom-card-boxes {
+
     border-style: solid;
     height: 45px;
     width: 260px;
